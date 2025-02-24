@@ -1,4 +1,4 @@
-E-Commerce Website
+# E-Commerce Website
 
 # Overview
 
@@ -47,7 +47,7 @@ Any IDE (VS Code, WebStorm, etc.)
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/ecommerce-website.git
+git clone https://github.com/luck-7/alpinesoul.git
 
 
 2. Navigate to the project folder and install dependencies:
