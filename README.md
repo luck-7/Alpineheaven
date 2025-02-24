@@ -45,12 +45,12 @@ Any IDE (VS Code, WebStorm, etc.)
 
 # Steps to Setup
 
-1. Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/luck-7/alpineheaven.git
 
 
-2. Navigate to the project folder and install dependencies:
+2.Navigate to the project folder and install dependencies:
 
 cd ecommerce-website
 npm install
@@ -72,7 +72,7 @@ http://localhost:3000
 
 # Usage
 
-1. Browse products and add them to the cart.
+1.Browse products and add them to the cart.
 
 
 2. Register/Login to proceed with checkout.
