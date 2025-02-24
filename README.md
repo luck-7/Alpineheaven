@@ -47,7 +47,7 @@ Any IDE (VS Code, WebStorm, etc.)
 
 1. Clone the repository:
 
-git clone https://github.com/luck-7/alpinesoul.git
+git clone https://github.com/luck-7/alpineheaven.git
 
 
 2. Navigate to the project folder and install dependencies:
