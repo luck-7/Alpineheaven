@@ -1,113 +1,77 @@
 # E-Commerce Website
 
-# Overview
+## Overview
+The **E-Commerce Website** is a full-stack web application developed using **React, Redux, HTML, CSS, JavaScript, and MongoDB**. It provides a seamless shopping experience with features like product browsing, cart management, secure checkout, and order tracking.
 
-The E-Commerce Website is a full-stack web application developed using React, Redux, HTML, CSS, JavaScript, and MongoDB. It provides a seamless shopping experience with features like product browsing, cart management, secure checkout, and order tracking.
+## Features
+- **User Authentication:** Login and Registration functionality.
+- **Product Catalog:** Browse products with search and filter options.
+- **Shopping Cart & Checkout:** Add items to the cart and proceed with checkout.
+- **Payment Gateway Integration:** Secure online payments.
+- **Order Management & Tracking:** Users can track their orders in real-time.
+- **Admin Dashboard:** Manage inventory, orders, and users.
 
-# Features
+## Technologies Used
+### Frontend
+- React
+- Redux
+- HTML, CSS, JavaScript
 
-User authentication (Login/Registration)
+### Backend
+- Node.js
+- Express.js
 
-Product catalog with search and filters
-
-Shopping cart and checkout
-
-Payment gateway integration
-
-Order management and tracking
-
-Admin dashboard for inventory and user management
-
-
-# Technologies Used
-
-Frontend: React, Redux, HTML, CSS, JavaScript
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-State Management: Redux
-
-Deployment: Vercel/Heroku (optional)
+### Database
+- MongoDB
 
 
-# Installation and Setup
+### Deployment (Optional)
+- Vercel / Heroku
 
-Prerequisites
+## Installation and Setup
+### Prerequisites
+Ensure you have the following installed:
+- Node.js and npm
+- MongoDB (Locally or a cloud instance like MongoDB Atlas)
+- Any IDE (VS Code, WebStorm, etc.)
 
-Node.js and npm
+### Steps to Setup
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/luck-7/alpineheaven.git
+   ```
 
-MongoDB installed locally or cloud instance
+2. **Navigate to the project folder and install dependencies:**  
+   ```bash
+   cd ecommerce-website
+   npm install
+   ```
 
-Any IDE (VS Code, WebStorm, etc.)
+3. **Set up MongoDB and update the `.env` file** with database credentials.
 
+4. **Start the development server:**  
+   ```bash
+   npm start
+   ```
 
-# Steps to Setup
+5. **Access the application at:**  
+   ```
+   http://localhost:3000
+   ```
 
-1.Clone the repository:
-
-git clone https://github.com/luck-7/alpineheaven.git
-
-
-2.Navigate to the project folder and install dependencies:
-
-cd ecommerce-website
-npm install
-
-
-3. Set up MongoDB and update .env file with database credentials.
-
-
-4. Start the development server:
-
-npm start
-
-
-5. Access the application at:
-
-http://localhost:3000
-
-
-
-# Usage
-
-1.Browse products and add them to the cart.
-
-
-2. Register/Login to proceed with checkout.
+## Usage
+1. **Browse Products:** Explore and add items to the cart.
+2. **Register/Login:** Create an account or sign in to proceed.
+3. **Complete Checkout:** Enter payment details and place your order.
+4. **Track Orders:** View order history and track shipment status.
+5. **Admin Panel:** Manage products, users, and orders.
 
 
-3. Complete payment and track your orders.
+## License
+This project is licensed under the **MIT License**.
 
-
-4. Admin Panel to manage products and users.
-
-
-
-# Contribution
-
-1. Fork the repository.
-
-
-2. Create a new branch (feature-branch-name).
-
-
-3. Commit changes and push to GitHub.
-
-
-4. Create a pull request for review.
-
-
-
-License
-
-This project is licensed under the MIT License.
-
-Contact
-
-For queries, 
-contact:negiarnab2002@gmail.com
+## Contact
+For any queries, contact: **negiarnab2002@gmail.com**
 
 
 ## Some  Snapshot
@@ -164,8 +128,9 @@ A cart icon and message in red to indicate the empty cart status.
 
 
 
-![Screenshot 2025-02-25 144433](https://github.com/user-attachments/assets/3d6ba1f6-cf9e-4b46-b48b-39ffdb757659)
 
+
+![Screenshot 2025-02-25 144433](https://github.com/user-attachments/assets/2ca30e83-fa91-43cb-8edb-cdac65d5868d)
 
 
 
